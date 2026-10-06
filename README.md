@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Harsh sharma
-- 👀 Currently i'm persuing Btech 
-- 🌱 I had done my 12th in 2019  
-- 📫I had done my 10th in 2017
+-Currently working as an SDET
 - 💞️ My hobbies are playing video games,photography
 - 
 <!---
